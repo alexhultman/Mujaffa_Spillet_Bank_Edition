@@ -12,7 +12,7 @@ Anyways so I patched the binary back in 2004 using Visual Basic 6 so that you st
 ![](verkstad.png)
 
 # The patch
-Essentially you look at the original binary and observe the 5000 initial NOK you get. This number is stored as a signed 32-bit integer in big endian format in the Flash binary. Search for it from the top down and replace it with something higher. Same goes with the "bank edition" text. Initially it was "version 1.6". Text is stored as C strings with a terminating 0-char.
+Essentially you look at the original binary and observe the 5000 initial NOK you get. This number is stored as a signed 32-bit integer in little endian format in the Flash binary. Search for it from the top down and replace it with something higher. Same goes with the "bank edition" text. Initially it was "version 1.6". Text is stored as C strings with a terminating 0-char.
 
 # License
 Probably abandonware
