@@ -1,5 +1,5 @@
 # Mujaffa Spillet Bank Edition
-This is a reupload of a patched silly game from 2003 that me and my big brother used to play a lot. It is Norwegian ~or Danish, I can't tell~.
+This is a reupload of a patched silly game from 2003 that me and my big brother used to play a lot. It Danish.
 
 You go round in this car fucking Norwegian hookers and get street cred. I think it's made by the Norwegian government-owned radio and television public broadcasting company "nrk.no" back in the good ol' times when political correctness wasn't a thing yet.
 
